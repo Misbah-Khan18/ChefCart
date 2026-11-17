@@ -1,6 +1,6 @@
 # ChefCart
 An AI-powered quick-commerce platform that transforms recipes into smart grocery carts, connects pantry ingredients with shopping needs, and makes cooking effortless.
-# ChefCart 🥕
+
 ### Your recipes, your groceries, all in one place.
 
 Ever saved a recipe and then realised you had no idea what ingredients you were missing?
